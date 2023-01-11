@@ -1,4 +1,4 @@
-module github.com/jucardi/go-streams/v2
+module github.com/caobingsheng/go-streams/v2
 
 go 1.18
 
